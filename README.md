@@ -1,7 +1,7 @@
 # Project of Data Visualization (COM-480)
 
 | Student's name | SCIPER |
-| -------------- | ------ |
+| Caroline Verchere | 302505 |
 | | |
 | | |
 | | |
